@@ -1,7 +1,7 @@
 {
   "name": "greenlanx",
   "displayName": "GreenLanX",
-  "description": "Green Theme that love everyone!",
+  "description": "A sleek, dark theme with a minimalist look and green-accented keywords. Designed for developers who love a sharp, black background with subtle but vibrant syntax highlights. Ideal for low-light coding sessions, with green tones for keywords and operators to enhance readability and reduce eye strain.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "adnaaaen",
+        "label": "GreenLanX",
         "uiTheme": "vs-dark",
-        "path": "./themes/adnaaaen-color-theme.json"
+        "path": "./themes/greenlanx-theme.json"
       }
     ]
   }
