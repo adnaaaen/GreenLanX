@@ -3,6 +3,7 @@
   "displayName": "GreenLanX",
   "description": "A sleek, dark theme with a minimalist look and green-accented keywords. Designed for developers who love a sharp, black background with subtle but vibrant syntax highlights. Ideal for low-light coding sessions, with green tones for keywords and operators to enhance readability and reduce eye strain.",
   "version": "0.0.1",
+  "icon" : "./icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },
